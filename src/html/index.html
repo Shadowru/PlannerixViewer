@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="main.bundle.js"></script>
+    <script src="https://unpkg.com/aframe-simple-sun-sky@^1.2.2/simple-sun-sky.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v6.1.1/dist/aframe-extras.min.js"></script>
+
+</head>
+<body>
+
+<a-scene loading-screen="dotsColor: red; backgroundColor: black" stats background="color: gray"
+         renderer="antialias: true"
+         light="defaultLightsEnabled: false">
+
+<!--    <a-assets>-->
+<!--        <a-asset-item id="avatar" src="./assets/avatar/avatar.glb"></a-asset-item>-->
+<!--    </a-assets>-->
+
+    <a-entity environment></a-entity>
+
+
+    <!--    <a-entity light="type: point; color: #CCC; intensity: 5.0" position="0.0 5.7500 0.0"></a-entity>-->
+<!--    <a-simple-sun-sky sun-position="1 0.1 0"></a-simple-sun-sky>-->
+<!--    <a-entity light="type: ambient; color: #BBB"></a-entity>-->
+<!--    <a-entity light="type: directional; color: #FFF; intensity: 0.6" position="0.7 0.4 -1"></a-entity>-->
+
+        <a-light type="ambient" color="#f0f0f0" intensity="0.3"></a-light>
+    <!--    <a-light type="ambient" color="#404040" intensity="2"></a-light>-->
+
+    <a-entity camera look-controls wasd-controls="acceleration:20" fov="65" position="0.0 1.7500 0.0"></a-entity>
+
+    <!--    <a-entity sky></a-entity>-->
+
+    <!--    <a-sun-sky></a-sun-sky>-->
+
+<!--    <a-entity room="json:./assets/generator/flat.json" scale="0.01 0.01 0.01" position="-2.481 0.0 -6.030"></a-entity>-->
+
+<!--    <a-entity buildings scale="1 1 1" position="-2.481 -30.0 -6.030"></a-entity>-->
+
+<!--    <a-entity-->
+<!--            gltf-model="#avatar" scale="0.01 0.01 0.01" position="0.00 0.00 -2.00"-->
+<!--            animation-mixer-->
+<!--    ></a-entity>-->
+
+    <a-entity b-plannerix="url: ../models/53.json"></a-entity>
+
+    <a-entity a-plannerix-window="height: 2; width: 4; depth: 0.1" position="1.4 2 -3.75" rotation="0 90 0"></a-entity>
+    <a-entity a-plannerix-window="height: 2; width: 1.5; depth: 0.1" position="1.4 2 -7.558" rotation="0 90 0"></a-entity>
+    <a-entity a-plannerix-window="height: 2; width: 1.5; depth: 0.1" position="1.4 2 -10.159" rotation="0 90 0"></a-entity>
+
+    <a-entity a-plannerix-light="url: ../models/53.json"></a-entity>
+
+<!--    <a-entity city></a-entity>-->
+
+</a-scene>
+
+
+</body>
+</html>

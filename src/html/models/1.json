@@ -1,0 +1,41 @@
+{
+  "id": "0fbe2d81-02b6-470b-89cc-7ebc00abd6cf",
+  "img": {
+    "original_url": "/uploads/store/plan/99/image/e6b47381d77b2d70597a212227e2e2d2.png"
+  },
+  "logo": {
+    "original_url": ""
+  },
+  "widget": {
+    "url": null
+  },
+  "address": {
+    "zip": "",
+    "fias": "",
+    "country": "",
+    "region": "",
+    "city": "",
+    "street": "",
+    "house": "",
+    "apartment": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "cadnumber": "",
+  "new_building": false,
+  "height_ceiling": 3000,
+  "height_door": 2000,
+  "height_sill": 800,
+  "height_window": 1600,
+  "metadata_file": null,
+  "plan_file": null,
+  "editor_data": "{\"items\": [{\"x\": 226, \"y\": 580, \"id\": \"0\", \"url\": \"https://file.plannerix.com/store/interior/4/image_2d/89538da826634120f461436368d043dc.svg\", \"type\": \"item\", \"scale\": {\"x\": 1, \"y\": 1}, \"width\": 78, \"height\": 84, \"tagName\": \"image\", \"itemType\": \"sink\", \"position\": {\"x\": -39, \"y\": -42}, \"rotation\": 0, \"scaleOffset\": {\"x\": 0, \"y\": 0}, \"rotationOffset\": {\"x\": 0, \"y\": 0}}, {\"x\": 226, \"y\": 747, \"id\": \"1\", \"url\": \"https://file.plannerix.com/store/interior/7/image_2d/e7bc4f78d22426543290a4fe68c335c5.svg\", \"type\": \"item\", \"scale\": {\"x\": 1, \"y\": 1}, \"width\": 82, \"height\": 77, \"tagName\": \"image\", \"itemType\": \"plate\", \"position\": {\"x\": -41, \"y\": -38}, \"rotation\": 0, \"scaleOffset\": {\"x\": 0, \"y\": 0}, \"rotationOffset\": {\"x\": 0, \"y\": 0}}, {\"x\": 308, \"y\": 467, \"id\": \"2\", \"url\": \"https://file.plannerix.com/store/interior/6/image_2d/a74271e403ac2a2f7ca5e48aaf1443b2.svg\", \"type\": \"item\", \"scale\": {\"x\": 1, \"y\": 1}, \"width\": 216, \"height\": 92, \"tagName\": \"image\", \"itemType\": \"bath\", \"position\": {\"x\": -108, \"y\": -46}, \"rotation\": 0, \"scaleOffset\": {\"x\": 0, \"y\": 0}, \"rotationOffset\": {\"x\": 0, \"y\": 0}}, {\"x\": 342, \"y\": 289, \"id\": \"3\", \"url\": \"https://file.plannerix.com/store/interior/3/image_2d/9fc3f53e9ede9a9d34f520b6dfdf352b.svg\", \"type\": \"item\", \"scale\": {\"x\": 1, \"y\": 1}, \"width\": 74, \"height\": 71, \"tagName\": \"image\", \"itemType\": \"toilet\", \"position\": {\"x\": -37, \"y\": -36}, \"rotation\": 0, \"scaleOffset\": {\"x\": 0, \"y\": 0}, \"rotationOffset\": {\"x\": 0, \"y\": 0}}, {\"x\": 231, \"y\": 372, \"id\": \"4\", \"url\": \"https://file.plannerix.com/store/interior/4/image_2d/89538da826634120f461436368d043dc.svg\", \"type\": \"item\", \"scale\": {\"x\": 1, \"y\": 1}, \"width\": 62, \"height\": 79, \"tagName\": \"image\", \"itemType\": \"sink\", \"position\": {\"x\": -31, \"y\": -40}, \"rotation\": 0, \"scaleOffset\": {\"x\": 0, \"y\": 0}, \"rotationOffset\": {\"x\": 0, \"y\": 0}}], \"rooms\": [{\"id\": \"0\", \"name\": \"Гостиная\", \"type\": \"room\", \"color\": \"#ADD8E6\", \"closed\": true, \"offset\": {\"x\": 0, \"y\": 0}, \"points\": [{\"x\": 549, \"y\": 448}, {\"x\": 889, \"y\": 447}, {\"x\": 889, \"y\": 1016}, {\"x\": 548, \"y\": 1016}], \"tagName\": \"path\", \"roomType\": \"hall\", \"apartment\": \"0\"}, {\"id\": \"1\", \"name\": \"Кухня\", \"type\": \"room\", \"color\": \"#FF0000\", \"closed\": true, \"offset\": {\"x\": 0, \"y\": 0}, \"points\": [{\"x\": 543, \"y\": 448}, {\"x\": 543, \"y\": 1015}, {\"x\": 187, \"y\": 1016}, {\"x\": 187, \"y\": 519}, {\"x\": 416, \"y\": 519}, {\"x\": 418, \"y\": 448}], \"tagName\": \"path\", \"roomType\": \"kitchen\", \"apartment\": \"0\"}, {\"id\": \"2\", \"name\": \"Коридор/прихожая\", \"type\": \"room\", \"color\": \"#FFA500\", \"closed\": true, \"offset\": {\"x\": 0, \"y\": 0}, \"points\": [{\"x\": 417, \"y\": 443}, {\"x\": 417, \"y\": 205}, {\"x\": 889, \"y\": 205}, {\"x\": 888, \"y\": 442}], \"tagName\": \"path\", \"roomType\": \"corridor\", \"apartment\": \"0\"}, {\"id\": \"3\", \"name\": \"Ванна\", \"type\": \"room\", \"color\": \"#CCCC66\", \"closed\": true, \"offset\": {\"x\": 0, \"y\": 0}, \"points\": [{\"x\": 187, \"y\": 205}, {\"x\": 411, \"y\": 206}, {\"x\": 411, \"y\": 514}, {\"x\": 188, \"y\": 513}], \"tagName\": \"path\", \"roomType\": \"bathroom\", \"apartment\": \"0\"}], \"objects\": [{\"id\": \"0\", \"type\": \"window\", \"walls\": [{\"end\": {\"x\": 243, \"y\": 1064}, \"start\": {\"x\": 478, \"y\": 1064}}, {\"end\": {\"x\": 243, \"y\": 1017}, \"start\": {\"x\": 243, \"y\": 1064}}, {\"end\": {\"x\": 478, \"y\": 1017}, \"start\": {\"x\": 243, \"y\": 1017}}, {\"end\": {\"x\": 478, \"y\": 1064}, \"start\": {\"x\": 478, \"y\": 1017}}], \"tagName\": \"path\"}, {\"id\": \"1\", \"type\": \"window\", \"walls\": [{\"end\": {\"x\": 600, \"y\": 1063}, \"start\": {\"x\": 837, \"y\": 1063}}, {\"end\": {\"x\": 600, \"y\": 1016}, \"start\": {\"x\": 600, \"y\": 1063}}, {\"end\": {\"x\": 837, \"y\": 1016}, \"start\": {\"x\": 600, \"y\": 1016}}, {\"end\": {\"x\": 837, \"y\": 1063}, \"start\": {\"x\": 837, \"y\": 1016}}], \"tagName\": \"path\"}, {\"id\": \"2\", \"type\": \"door\", \"walls\": [{\"end\": {\"x\": 412, \"y\": 325}, \"start\": {\"x\": 412, \"y\": 424}}, {\"end\": {\"x\": 414, \"y\": 325}, \"start\": {\"x\": 412, \"y\": 325}}, {\"end\": {\"x\": 414, \"y\": 424}, \"start\": {\"x\": 414, \"y\": 325}}, {\"end\": {\"x\": 412, \"y\": 424}, \"start\": {\"x\": 414, \"y\": 424}}, {\"end\": {\"x\": 412, \"y\": 424}, \"start\": {\"x\": 412, \"y\": 424}}], \"tagName\": \"path\"}, {\"id\": \"3\", \"type\": \"door\", \"walls\": [{\"end\": {\"x\": 425, \"y\": 443}, \"start\": {\"x\": 425, \"y\": 447}}, {\"end\": {\"x\": 538, \"y\": 443}, \"start\": {\"x\": 425, \"y\": 443}}, {\"end\": {\"x\": 538, \"y\": 447}, \"start\": {\"x\": 538, \"y\": 443}}, {\"end\": {\"x\": 425, \"y\": 447}, \"start\": {\"x\": 538, \"y\": 447}}, {\"end\": {\"x\": 425, \"y\": 447}, \"start\": {\"x\": 425, \"y\": 447}}], \"tagName\": \"path\"}, {\"id\": \"4\", \"type\": \"door\", \"walls\": [{\"end\": {\"x\": 669, \"y\": 447}, \"start\": {\"x\": 669, \"y\": 444}}, {\"end\": {\"x\": 555, \"y\": 447}, \"start\": {\"x\": 669, \"y\": 447}}, {\"end\": {\"x\": 555, \"y\": 443}, \"start\": {\"x\": 555, \"y\": 447}}, {\"end\": {\"x\": 669, \"y\": 444}, \"start\": {\"x\": 555, \"y\": 443}}, {\"end\": {\"x\": 669, \"y\": 444}, \"start\": {\"x\": 669, \"y\": 444}}], \"tagName\": \"path\"}], \"apartments\": [{\"id\": \"0\", \"type\": \"apartment\", \"closed\": true, \"points\": [{\"x\": 161, \"y\": 180}, {\"x\": 161, \"y\": 1063}, {\"x\": 202, \"y\": 1063}, {\"x\": 203, \"y\": 1064}, {\"x\": 539, \"y\": 1064}, {\"x\": 540, \"y\": 1063}, {\"x\": 914, \"y\": 1063}, {\"x\": 914, \"y\": 180}], \"tagName\": \"path\", \"total_area\": 25.7, \"number_rooms\": 1}]}",
+  "svg": "",
+  "svg_file": {
+    "original_url": null
+  },
+  "patt": {
+    "original_url": null
+  },
+  "state": "idle"
+}
